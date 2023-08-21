@@ -1,6 +1,6 @@
 # React State Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Update state based on events
 - Work with multiple state variables together
